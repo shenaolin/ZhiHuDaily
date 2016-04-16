@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_page_json_url">http://news-at.zhihu.com/api/4/start-image/320*432</string>
+    <string name="theme_category_url">http://news-at.zhihu.com/api/4/themes</string>
+    <string name="latest_news_url">http://news-at.zhihu.com/api/4/news/latest</string>
+    <string name="history_news_base_url">http://news.at.zhihu.com/api/4/news/before</string>
+    <string name="theme_base_url">http://news-at.zhihu.com/api/4/theme</string>
+    <string name="story_base_url">http://news-at.zhihu.com/api/4/news</string>
+    <string name="story_extra_info_base_url">http://news-at.zhihu.com/api/4/story-extra</string>
+    <string name="story_comment_base_url">http://news-at.zhihu.com/api/4/story</string>
+</resources>
