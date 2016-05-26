@@ -12,7 +12,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:cardElevation="2dp"
+<<<<<<< HEAD
         app:cardUseCompatPadding="true"
+=======
+>>>>>>> baeccaaed7b7b8839911dd562962dd5d04f5863e
         app:contentPadding="15dp">
 
         <LinearLayout
