@@ -67,10 +67,6 @@
             android:id="@+id/tv_content"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
-=======
-            android:letterSpacing="10"
->>>>>>> baeccaaed7b7b8839911dd562962dd5d04f5863e
             android:lineSpacingMultiplier="1.2"
             android:textColor="@color/black"
             android:textSize="16sp" />
@@ -81,10 +77,6 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
             android:ellipsize="end"
-<<<<<<< HEAD
-=======
-            android:letterSpacing="10"
->>>>>>> baeccaaed7b7b8839911dd562962dd5d04f5863e
             android:textColor="#3e3e3e"
             android:textSize="16sp" />
 
